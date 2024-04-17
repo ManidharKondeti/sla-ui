@@ -18,7 +18,7 @@ import { sharedService } from '../app/services/sharedservice.service';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  // title = 'SLA Ticket Management System';
+   title = 'SLA Ticket Management System';
   // isIframe = false;
   // loginDisplay = false;
   // private readonly _destroying$ = new Subject<void>();
