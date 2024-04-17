@@ -1,0 +1,33 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+mat-toolbar {
+
+  color     : white;
+  background: #088F8F;
+}
+
+.m-right {
+  margin-right: 48px;
+}
+
+.m-l-10 {
+  margin-left: 10px;
+}
+
+.is-active {
+  background-color: #543838d1 !important;
+  color: white;
+}
+
+.logout-button{
+  width: 6%;
+}
+
+a{
+color: white !important;  
+}
+.delete-btn{
+  font-size: 20px;
+}

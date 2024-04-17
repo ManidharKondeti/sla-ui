@@ -1,0 +1,28 @@
+.toolbar-spacer {
+  flex: 1 1 auto;
+}
+
+a.title {
+  color: white;
+  font-size: 42px;
+  text-decoration: none !important;
+}
+.tool{
+background:transparent;
+}
+.main-div  {
+  background-image: url("https://smartlibrarystorage.blob.core.windows.net/libraryassets/SLATicketManagementSystemUI.jpeg");
+  background-color: #cccccc;
+height: 100%; 
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+overflow: hidden;
+}
+
+
+.login-btn{
+  margin-right: 61px;
+  width: 139px;
+  height: 45px;
+}
